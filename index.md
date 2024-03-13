@@ -160,9 +160,7 @@ Materials will be provided in advance of the event.
 We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
 However, we do want to help create an inclusive, accessible experience for all participants.
 We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
-To request an accommodation for this training, please fill out the
-<a href="https://carpentries.typeform.com/to/B2OSYaD0">accommodation request form</a>.
-If you have questions or need assistance with the accommodation form please <a href="mailto:team@carpentries.org">email us</a>.
+If you have questions or need assistance with the accommodation form please <a href="mailto:bonnyadane@gmail.com">email us</a>.
 
 <h3>How to Prepare for Instructor Training</h3>
 
