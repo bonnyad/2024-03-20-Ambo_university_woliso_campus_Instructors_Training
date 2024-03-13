@@ -10,7 +10,7 @@
 carpentry: "cp"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Instructors Training for Ambo and wollo Univeristy Staffs"
 
 
 #------------------------------------------------------------
@@ -26,7 +26,7 @@ kind: "workshop"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "bonnyadane@gmail.com"
 
 # Sites.
 amy_site: "https://amy.carpentries.org/"
@@ -56,10 +56,10 @@ lessondev_pre_survey: FIXME
 lessondev_pre_survey: FIXME
 
 # Set to 'true' for instructor training websites only.
-instructor_training: false
+instructor_training: True
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
-start_time: 0
+start_time: 540
 
 # Specify that things in the episodes collection should be output.
 collections:
