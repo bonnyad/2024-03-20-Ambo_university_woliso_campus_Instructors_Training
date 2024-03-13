@@ -8,7 +8,7 @@ country: "et"      # "W3" for centrally organized online trainings or lowercase 
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latitude: "8.59773370848328"        # decimal latitude of training venue (use https://www.latlong.net/)
 longitude: "37.977765867397245"       # decimal longitude of the training venue (use https://www.latlong.net)
-humandate: "March 18-20, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "March 20-23, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2024-03-20       # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-03-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
